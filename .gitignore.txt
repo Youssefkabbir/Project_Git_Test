@@ -1,1 +1,1 @@
-Directory/Subdirectory/*.txt
+D/SubD/
