@@ -1,1 +1,1 @@
-**/Subdirectory/
+Directory/Subdirectory/
